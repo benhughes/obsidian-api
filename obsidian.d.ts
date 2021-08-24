@@ -3101,6 +3101,10 @@ export abstract class View extends Component {
     /**
      * @public
      */
+     editor: Editor
+    /**
+     * @public
+     */
     icon: string;
     /**
      * @public
